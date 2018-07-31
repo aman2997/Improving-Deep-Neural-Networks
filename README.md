@@ -1,1 +1,5 @@
 # Improving-Deep-Neural-Networks
+
+My codes for the second course. Hope this will prove to be helpful for all of you. Please try to solve the exercises on your own. These are only to clear some doubts and not to copy whole code. Remember that you have enrolled to learn.
+
+Thanks for stopping by! :)
